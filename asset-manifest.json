@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.48aaf718.chunk.css",
-    "main.js": "/static/js/main.1347cd6f.chunk.js",
-    "main.js.map": "/static/js/main.1347cd6f.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.953fe262.js",
-    "runtime~main.js.map": "/static/js/runtime~main.953fe262.js.map",
-    "static/js/2.611a48d7.chunk.js": "/static/js/2.611a48d7.chunk.js",
-    "static/js/2.611a48d7.chunk.js.map": "/static/js/2.611a48d7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.364582b031abed47ee3a6e9b3514a475.js": "/precache-manifest.364582b031abed47ee3a6e9b3514a475.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.48aaf718.chunk.css.map": "/static/css/main.48aaf718.chunk.css.map",
-    "static/media/global.scss": "/static/media/background.b01e3c4e.gif",
-    "static/media/logo-g1.svg": "/static/media/logo-g1.5703fd38.svg",
-    "static/media/logo-globo.svg": "/static/media/logo-globo.472a992b.svg"
+    "main.css": "/desafio333/static/css/main.0689a53d.chunk.css",
+    "main.js": "/desafio333/static/js/main.1347cd6f.chunk.js",
+    "main.js.map": "/desafio333/static/js/main.1347cd6f.chunk.js.map",
+    "runtime~main.js": "/desafio333/static/js/runtime~main.855331c2.js",
+    "runtime~main.js.map": "/desafio333/static/js/runtime~main.855331c2.js.map",
+    "static/js/2.611a48d7.chunk.js": "/desafio333/static/js/2.611a48d7.chunk.js",
+    "static/js/2.611a48d7.chunk.js.map": "/desafio333/static/js/2.611a48d7.chunk.js.map",
+    "index.html": "/desafio333/index.html",
+    "precache-manifest.448d34a7183141447c7944b2069b850f.js": "/desafio333/precache-manifest.448d34a7183141447c7944b2069b850f.js",
+    "service-worker.js": "/desafio333/service-worker.js",
+    "static/css/main.0689a53d.chunk.css.map": "/desafio333/static/css/main.0689a53d.chunk.css.map",
+    "static/media/global.scss": "/desafio333/static/media/background.b01e3c4e.gif",
+    "static/media/logo-g1.svg": "/desafio333/static/media/logo-g1.5703fd38.svg",
+    "static/media/logo-globo.svg": "/desafio333/static/media/logo-globo.472a992b.svg"
   }
 }
