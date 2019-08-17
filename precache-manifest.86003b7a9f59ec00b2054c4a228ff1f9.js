@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f40f200b1f9b2700d523b71475836e5e",
+    "revision": "f16fa54ee526e990ddc4e70625582a44",
     "url": "/desafio333/index.html"
   },
   {
-    "revision": "8e3c882bb7ca2c2bae23",
+    "revision": "5fd49c98b4b1afe64465",
     "url": "/desafio333/static/css/main.f5245ca8.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/desafio333/static/js/2.611a48d7.chunk.js"
   },
   {
-    "revision": "8e3c882bb7ca2c2bae23",
-    "url": "/desafio333/static/js/main.80c6966c.chunk.js"
+    "revision": "5fd49c98b4b1afe64465",
+    "url": "/desafio333/static/js/main.31af9e08.chunk.js"
   },
   {
     "revision": "15e51dbb3f661b47978e",
@@ -29,6 +29,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "9a80366012e18903c10ba87b86d38b55",
-    "url": "/desafio333/static/media/logo-globo-2.9a803660.svg"
+    "url": "/desafio333/static/media/logo-globo.9a803660.svg"
   }
 ]);
